@@ -2,7 +2,7 @@
 FROM ubuntu:latest
 
 #作成者
-MAINTAINER 0.1 horiuchi@zlab.co.jp
+MAINTAINER 0.3 horiuchi@zlab.co.jp
 
 #httpdのインストール
 RUN apt-get install -y \
